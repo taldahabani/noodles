@@ -8,11 +8,11 @@ const character = {
   name: 'Noodles',
   agentId: '4gWkcgFThRtBuhM5akxT',
   assets: {
-    idle: '/assets/cat-idle-rainbow.mp4',
-    talking: '/assets/cat-talk-rainbow.mp4',
-    cake: '/assets/cat-cake.mp4',
-    preview: '/assets/cat.png',
-    icon: '/assets/cat.jpg'
+    idle: '/.assets/cat-idle-rainbow.mp4',
+    talking: './assets/cat-talk-rainbow.mp4',
+    cake: '/.assets/cat-cake.mp4',
+    preview: './assets/cat.png',
+    icon: './assets/cat.jpg'
   }
 };
 
